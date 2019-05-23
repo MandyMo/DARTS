@@ -10,4 +10,4 @@ Since the [offical released code](https://github.com/quark0/darts.git) does not 
     nohup python3 train.py > train_model.log &
 
 # Note
-    We train the search model via a single Tesla V100 GPU for 4 days, while we train the model on cifar-10 for 2 days with two Telsa v100 GPUS.
+We train the search model via a single Tesla V100 GPU for 4 days, while we train the model on cifar-10 for 2 days with two Telsa v100 GPUS.
