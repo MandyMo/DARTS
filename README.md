@@ -6,5 +6,5 @@ Since the [offical released code](https://github.com/quark0/darts.git) does not 
 # search model
     nohup python3 train_search.py > train_search.log &
 
-# training searched model
+# train searched model
     nohup python3 train.py > train_model.log &
